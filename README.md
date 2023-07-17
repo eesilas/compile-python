@@ -5,3 +5,5 @@
 'tar zxvf Python-3.10.10.tgz'
 'sudo make altinstall"
 ' /usr/local/bin/python3.10  '
+
+'reference https://youtu.be/gzh329Yzv8E'
